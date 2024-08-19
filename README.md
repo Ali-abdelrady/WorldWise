@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# WorldWise
+The WorldWise app is a comprehensive travel companion built with React.It incorporates various features, including:
+- React Router: Navigate seamlessly between different sections of the app.
+- Context API: Manage global state and share data across components efficiently.
+- Memoization (memo): Optimize performance by preventing unnecessary re-renders.
+- useMemo and useCallback: Leverage these hooks for efficient memoization and function optimization.
+- Responsive Design: Ensure the app looks great on various screen sizes.
+- User-friendly UI: Provide an intuitive interface for travelers to explore destinations, view travel tips, and plan their trips. 
